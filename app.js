@@ -32,6 +32,15 @@ app.get("/loading",userController.loading);
 
 
 
+// app.listen(PORT,()=>{
+//     console.log(`Listening to local Host ${PORT}`);
+// })
+// app.listen(PORT,()=>{
+//     console.log(`Listening to local Host ${PORT}`);
+// })
+// app.listen(PORT,()=>{
+//     console.log(`Listening to local Host ${PORT}`);
+// })
 app.listen(PORT,()=>{
     console.log(`Listening to local Host ${PORT}`);
 })
