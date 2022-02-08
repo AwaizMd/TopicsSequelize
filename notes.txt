@@ -1,0 +1,6 @@
+Sequelize:-
+1)Sequelize is a promise-based Node.js ORM tool.
+2)can be use with PostgreSQL, MySQL,SQLite, and MSSQL
+3)Object Relational Mapping(ORM) is a technique of accessing a relational database from an object-oriented language.
+or technique that maps sofware objects to database tables.
+
